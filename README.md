@@ -18,19 +18,6 @@ MovieMuse is a social movie and TV tracking web app that lets users discover, ra
 
 ---
 
-## 📖 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Roadmap / Future Work](#roadmap--future-work)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-
----
 
 ## 🔎 Overview
 MovieMuse was developed as my Master’s in Computer Science capstone project.  
