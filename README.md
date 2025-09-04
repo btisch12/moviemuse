@@ -19,13 +19,13 @@ MovieMuse is a social movie and TV tracking web app that lets users discover, ra
 ---
 
 
-## 🔎 Overview
+## Overview
 MovieMuse was developed as my Master’s in Computer Science capstone project.  
 The goal of this project is to create a clean, user-friendly platform for tracking movies and TV shows while exploring **recommendation systems, real-time databases, and scalable app design**.
 
 ---
 
-## ✨ Features
+## Features
 -  **User Authentication** (Firebase Email/Password + Google login)
 -  **Movie & TV Search** powered by TMDB API
 -  **Lists**: Watchlist, Watching, and Watched
@@ -36,7 +36,7 @@ The goal of this project is to create a clean, user-friendly platform for tracki
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** React.js, React Router, Tailwind CSS, shadcn/ui  
 - **Backend & Database:** Firebase Authentication, Firebase Firestore  
 - **APIs:** [TMDB API](https://www.themoviedb.org/documentation/api)  
@@ -45,7 +45,7 @@ The goal of this project is to create a clean, user-friendly platform for tracki
 
 ---
 
-## ⚡ Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
