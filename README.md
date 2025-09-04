@@ -14,7 +14,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # 🎬 MovieMuse
 
-MovieMuse is a social movie and TV tracking web app that lets users discover, rate, and share what they’re watching. Built with React, Firebase, and the TMDB API, the app provides personalized recommendations, watchlists, and social features similar to Goodreads — but for movies.
+MovieMuse is a social movie and TV tracking web app that lets users discover, rate, and share what they’re watching. Built with React, Firebase, and the TMDB API, the app provides personalized recommendations, watchlists, and social features similar to Goodreads but for movies.
 
 ---
 
@@ -33,28 +33,19 @@ MovieMuse is a social movie and TV tracking web app that lets users discover, ra
 ---
 
 ## 🔎 Overview
-MovieMuse was developed as a Master’s in Computer Science capstone project.  
+MovieMuse was developed as my Master’s in Computer Science capstone project.  
 The goal of this project is to create a clean, user-friendly platform for tracking movies and TV shows while exploring **recommendation systems, real-time databases, and scalable app design**.
 
 ---
 
 ## ✨ Features
-- 🔑 **User Authentication** (Firebase Email/Password + Google login)
-- 📺 **Movie & TV Search** powered by TMDB API
-- ⭐ **Lists**: Watchlist, Watching, and Watched
-- 📝 **Reviews & Ratings** with star system and comments
-- 👥 **Social Features**: Follow users, view activity feed, friend requests
-- 🎯 **Recommendations**: Personalized suggestions based on trending + user data
-- 📱 **Responsive UI** with Tailwind + shadcn/ui
-
----
-
-## 📸 Screenshots
-> Add images or GIFs here (e.g., Home Page, Search, Movie Detail, Profile, Activity Feed)
-
-Example:
-![MovieMuse Home](./screenshots/home.png)
-![Movie Detail](./screenshots/movie-detail.png)
+-  **User Authentication** (Firebase Email/Password + Google login)
+-  **Movie & TV Search** powered by TMDB API
+-  **Lists**: Watchlist, Watching, and Watched
+-  **Reviews & Ratings** with star system and comments
+-  **Social Features**: Follow users, view activity feed, friend requests
+-  **Recommendations**: Personalized suggestions based on trending + user data
+-  **Responsive UI** with Tailwind + shadcn/ui
 
 ---
 
